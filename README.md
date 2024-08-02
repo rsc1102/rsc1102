@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Chaudhari</h1>
 
 - 🔭 I’m currently working towards a **Master's Degree in Computer Science at NYU Tandon School of Engineering**
-- 🌱 I’m currently learning **Deep Learning and Software Testing**
+- 🌱 I’m currently learning **Deep Learning and System Design**
 - 👯 I’m looking to collaborate on **Machine Learning, Computer Vision and Software Engineering Projects**
 - 💬 Ask me about **Machine Learning and Computer Vision**
 - 📫 How to reach me: **rsc9069@nyu.edu**
