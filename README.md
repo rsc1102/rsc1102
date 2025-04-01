@@ -59,11 +59,11 @@ I'm a software engineer passionate about building things. I have two years of in
 ## 💼 Work Experience
 ### Software Engineer, Cognam Technologies
 ###### Delhi, India | June 2021 - June 2023
-- Directed a team of 5 in developing an automated KYC system, reducing user onboarding time by 80\%.
-- Implemented Agile methodologies to assign and track tasks, optimizing team productivity and ensuring consistent project development within deadlines.
-- Developed a face spoof detection system with a 93\% accuracy rate, significantly mitigating fraudulent verifications.
-- Designed and launched a biometric data collection platform, managing an initiative that gathered over 3,000 images for AI training.
-- Architected and deployed scalable REST APIs on AWS for Machine Learning projects, enabling seamless integration and real-time data processing.
+- Led a team of 5, applying Agile methodologies (Scrum) to deliver projects on time consistently.
+- Mentored junior engineers, enhancing their development skills and boosting team productivity by 60%.
+- Collaborated with designers to translate mockups into functional websites using Django.
+- Optimized performance of an automated KYC system, reducing request execution time by 120%.
+- Developed system architectures and RESTful APIs for 3 projects, ensuring scalability and reliability.
 
 
 ## 🌐 Socials:
