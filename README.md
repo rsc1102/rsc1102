@@ -62,7 +62,7 @@ I'm a software engineer passionate about building things. I have two years of in
 - Led a team of 5, applying Agile methodologies (Scrum) to deliver projects on time consistently.
 - Mentored junior engineers, enhancing their development skills and boosting team productivity by 60%.
 - Collaborated with designers to translate mockups into functional websites using Django.
-- Optimized performance of an automated KYC system, reducing request execution time by 120%.
+- Optimized performance of an automated KYC system, reducing request execution time by 20%.
 - Developed system architectures and RESTful APIs for 3 projects, ensuring scalability and reliability.
 
 
