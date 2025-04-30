@@ -12,9 +12,10 @@ I'm a software engineer passionate about building things. I have two years of in
 
 
 ## 🎓 Education
-### New York University 
-###### M.S. in Computer Science | Sep 2023 - Present
-###### **Relevant Coursework**: Design & Analysis of Algorithms, Machine Learning, Deep Learning, Computer Vision, Software Engineering, Human Computer Interaction
+- **New York University** 
+  - M.S. in Computer Science &nbsp;| Sep 2023 - May 2025
+- **Indian Institute of Technology Patna (IIT Patna)** 
+  - Bachelor of Technology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Aug 2017 - May 2021
 
 ## 🛠 Skills  
 - **Languages**:
@@ -57,12 +58,17 @@ I'm a software engineer passionate about building things. I have two years of in
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 ## 💼 Work Experience
+### Software Intern, NYU Langone Health
+###### New York, NY | June 2024 - Aug 2024
+- Collaborated with researchers to build a 3D MRI segmentation model for cancer detection.
+- Optimized a U-Net architecture to improve lesion classification performance on multi-parametric MRI scans.
+
 ### Software Engineer, Cognam Technologies
 ###### Delhi, India | June 2021 - June 2023
 - Led a team of 5, applying Agile methodologies (Scrum) to deliver projects on time consistently.
 - Mentored junior engineers, enhancing their development skills and boosting team productivity by 60%.
-- Collaborated with designers to translate mockups into functional websites using Django.
 - Optimized performance of an automated KYC system, reducing request execution time by 20%.
+- Collaborated with designers to translate mockups into functional websites using Django.
 - Developed system architectures and RESTful APIs for 3 projects, ensuring scalability and reliability.
 
 
