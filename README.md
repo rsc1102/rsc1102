@@ -58,13 +58,11 @@ I'm a software engineer passionate about building things. I have two years of in
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 ## 💼 Work Experience
-### Software Intern, NYU Langone Health
-###### New York, NY | June 2024 - Aug 2024
+**Software Intern, NYU Langone Health** | June 2024 - Aug 2024
 - Collaborated with researchers to build a 3D MRI segmentation model for cancer detection.
 - Optimized a U-Net architecture to improve lesion classification performance on multi-parametric MRI scans.
 
-### Software Engineer, Cognam Technologies
-###### Delhi, India | June 2021 - June 2023
+**Software Engineer, Cognam Technologies** | June 2021 - June 2023
 - Led a team of 5, applying Agile methodologies (Scrum) to deliver projects on time consistently.
 - Mentored junior engineers, enhancing their development skills and boosting team productivity by 60%.
 - Optimized performance of an automated KYC system, reducing request execution time by 20%.
