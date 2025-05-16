@@ -4,11 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-I'm a software engineer passionate about building things. I have two years of industry experience and am currently pursuing a Master's in Computer Science at New York University. My interests include machine learning applications, system design, and, more recently, agentic AI. I’m always on the lookout for app hosting platforms with generous free tiers! 😍
-
-&nbsp;
-
-**Note:** I will be completing my master's at NYU in May 2025 and am actively seeking full-time software engineering roles!
+I'm a full-stack developer who loves working with advanced AI technologies like AI agents, Model Context Protocol, and Retrieval-Augmented Generation (RAG). I’ve spent a lot of time building cool stuff with computer vision and natural language processing — things like face recognition, image segmentation, and language understanding. I enjoy creating end-to-end web apps powered by AI, from building scalable APIs on the backend to designing clean, responsive interfaces on the frontend. Always excited to bring smart ideas to life through code!
 
 
 ## 🎓 Education
