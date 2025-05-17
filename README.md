@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-I'm a full-stack developer who loves working with advanced AI technologies like AI agents, Model Context Protocol, and Retrieval-Augmented Generation (RAG). I’ve spent a lot of time building cool stuff with computer vision and natural language processing — things like face recognition, image segmentation, and language understanding. I enjoy creating end-to-end web apps powered by AI, from building scalable APIs on the backend to designing clean, responsive interfaces on the frontend. Always excited to bring smart ideas to life through code!
+I'm a full-stack developer who loves working with AI technologies like AI agents, Model Context Protocol, and Retrieval-Augmented Generation (RAG). I’ve spent a lot of time building cool stuff with computer vision and natural language processing — things like face recognition, image segmentation, and language understanding. I enjoy creating end-to-end web apps powered by AI, from building scalable APIs on the backend to designing clean, responsive interfaces on the frontend. Always excited to bring smart ideas to life through code!
 
 
 ## 🎓 Education
