@@ -4,9 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-I'm a full-stack developer who loves working with AI technologies like AI agents, Model Context Protocol, and Retrieval-Augmented Generation (RAG). I’ve spent a lot of time building cool stuff with computer vision and natural language processing — things like face recognition, image segmentation, and language understanding. I enjoy creating web apps leveraging AI tech, building scalable APIs on the backend, and designing clean, responsive interfaces on the frontend. Always excited to bring smart ideas to life through code!  
-
-##### **Note:** Actively looking for software engineering jobs.
+I'm a full-stack developer who loves working with AI technologies like AI agents, Model Context Protocol, and Retrieval-Augmented Generation (RAG). I’ve spent a lot of time building cool stuff with computer vision and natural language processing: things like face recognition, image segmentation, and language understanding. I enjoy creating web apps leveraging AI tech, building scalable APIs on the backend, and designing clean, responsive interfaces on the frontend. Always excited to bring smart ideas to life through code!  
 
 ## 🎓 Education
 - **New York University** 
@@ -60,15 +58,17 @@ I'm a full-stack developer who loves working with AI technologies like AI agents
 - Optimized a U-Net architecture to improve lesion classification performance on multi-parametric MRI scans.
 
 **Software Engineer, Cognam Technologies** | June 2021 - June 2023
-- Led a team of 5, applying Agile methodologies (Scrum) to deliver projects on time consistently.
-- Mentored junior engineers, enhancing their development skills and boosting team productivity by 60%.
-- Optimized performance of an automated KYC system, reducing request execution time by 20%.
-- Collaborated with designers to translate mockups into functional websites using Django.
-- Developed system architectures and RESTful APIs for 3 projects, ensuring scalability and reliability.
+- Designed and implemented scalable back-end architectures and REST APIs for ML-enabled services.
+- Reduced latency in automated KYC systems by 20% through database query optimization and async processing.
+- Led a team of 5 engineers and mentored junior developers, improving team efficiency by 60%.
+- Partnered with product and design teams to build and evaluate early-stage R&D prototypes for potential platform integration.
+- Built fault-tolerant services deployed via Docker and orchestrated with Kubernetes.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitchaudhari1102) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitchaudhari1102) 
+[![Static Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&label=rohitchaudhari1102@gmail.com&labelColor=white)](mailto:rohitchaudhari1102@gmail.com) 
 [![Static Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&label=rsc9069%40nyu.edu&labelColor=white)](mailto:rsc9069@nyu.edu) 
+
 
 
